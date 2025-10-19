@@ -15,7 +15,5 @@ namespace AdventurerManager.Models
         public List<Quest> Quests { get; set; } = new List<Quest>();
 
      
-
-     
     }
 }
