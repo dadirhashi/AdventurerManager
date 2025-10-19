@@ -39,7 +39,6 @@ namespace AdventurerManager
                     case "2":
                         Console.WriteLine("Login hero..");
                         authenticator.LoginHero();
-                        questManager.AddQuest();
                         MenuHelper.Pause();
                         break;
                     case "3":
